@@ -1,1 +1,3 @@
-# Kodi-Repo
+# Repository for Kodi
+Requirements:
+- Git Browser
